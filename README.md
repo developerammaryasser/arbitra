@@ -1,6 +1,7 @@
 # Arbitra
 
-[![GitHub License](https://img.shields.io/github/license/developerammaryasser/arbitra)](https://github.com/developerammaryasser/arbitra/blob/main/LICENSE)
+
+![Arbitra-cover](https://github.com/user-attachments/assets/3539f04a-a94e-4714-b922-43de2ad86918)
 
 Arbitra is a modern web application designed to streamline and automate arbitration processes. This project leverages cutting-edge web technologies to provide a seamless user experience, making arbitration more accessible and efficient.
 
