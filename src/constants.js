@@ -28,7 +28,7 @@ export const hero = {
 // Services
 export const services = {
     section1: {
-        title: <>It's simple Simpler than you think</>,
+        title: "It's simple Simpler than you think",
         accordion: [
             {
                 title: "Build your wallet",
