@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Arbitra
 
-## Getting Started
+[![GitHub License](https://img.shields.io/github/license/developerammaryasser/arbitra)](https://github.com/developerammaryasser/arbitra/blob/main/LICENSE)
 
-First, run the development server:
+Arbitra is a modern web application designed to streamline and automate arbitration processes. This project leverages cutting-edge web technologies to provide a seamless user experience, making arbitration more accessible and efficient.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **User-Friendly Interface**: An intuitive and responsive design that adapts to various devices, ensuring a smooth user experience.
+- **Automated Processes**: Reduces the time and effort required for arbitration through automated workflows.
+- **Secure Data Handling**: Implements best practices in security to ensure data privacy and integrity.
+- **Customizable Workflows**: Flexible configuration options allow users to tailor the arbitration process to their specific needs.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Technologies Used
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Frontend**: React.js with modern hooks and state management techniques.
+- **Animations**: Enhanced user experience using React Just Parallax.
+- **Backend**: Node.js and Express.js for scalable server-side logic.
+- **Database**: MongoDB for efficient data storage and retrieval.
+- **Authentication**: Secure user authentication and authorization using JWT.
+- **Deployment**: Hosted on a reliable cloud platform for optimal performance and availability.
 
-## Learn More
+## Installation
 
-To learn more about Next.js, take a look at the following resources:
+To get started with Arbitra locally, follow these steps:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. **Clone the repository:**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   ```bash
+   git clone https://github.com/developerammaryasser/arbitra.git
+   cd arbitra
