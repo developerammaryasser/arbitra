@@ -36,7 +36,7 @@ const Services = () => {
             <span className="text-n-1">
               redefine fintech <br /> through Aidriven soluions.
             </span>{" "}
-            We&apos;'re dedicated to <br />{" "}
+            We are dedicated to <br />{" "}
             <span className="text-n-1">
               providing smart, data-driven advices
             </span>{" "}
