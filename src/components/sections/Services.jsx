@@ -32,15 +32,15 @@ const Services = () => {
       <div className="relative py-24 bg-n-2">
         <div className="relative container" style={{ zIndex: 4 }}>
           <p className="text-5xl text-center md:text-start text-n-1/65 leading-snug">
-            At Arbitra, our mission is to{" "}
+            At Arbitra, our mission is to
             <span className="text-n-1">
               redefine fintech <br /> through Aidriven soluions.
-            </span>{" "}
-            We are dedicated to <br />{" "}
+            </span>
+            We are dedicated to <br />
             <span className="text-n-1">
               providing smart, data-driven advices
-            </span>{" "}
-            that help <br /> users to unlock their full potential in the <br />{" "}
+            </span>
+            that help <br /> users to unlock their full potential in the <br />
             cryptocurrency market.
           </p>
         </div>
