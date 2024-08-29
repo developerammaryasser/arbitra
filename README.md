@@ -15,10 +15,7 @@ Arbitra is a modern web application designed to streamline and automate arbitrat
 
 - **Frontend**: React.js with modern hooks and state management techniques.
 - **Animations**: Enhanced user experience using React Just Parallax.
-- **Backend**: Node.js and Express.js for scalable server-side logic.
-- **Database**: MongoDB for efficient data storage and retrieval.
-- **Authentication**: Secure user authentication and authorization using JWT.
-- **Deployment**: Hosted on a reliable cloud platform for optimal performance and availability.
+- **Data Storage**: Local data storage without external database.
 
 ## Installation
 
