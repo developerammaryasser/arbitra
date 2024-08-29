@@ -6,14 +6,7 @@ import Typography from "./Typography";
 const Slider = ({ slides }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
 
-  // Define the number of slides to show per block based on screen size
-  const getSlidesToShow = () => {
-    if (window.innerWidth < 640) return 1; // Mobile
-    if (window.innerWidth < 1024) return 2; // Tablet
-    return 3; // Desktop
-  };
-
-  const slidesToShow = getSlidesToShow();
+  const slidesToShow = 3;
   const totalSlides = slides.length;
   const slidesPerBlock = slidesToShow; // Number of slides in each block
 
@@ -46,11 +39,17 @@ const Slider = ({ slides }) => {
         {slides.map((slide, index) => (
           <div
             key={index}
-            className={`w-${100 / slidesToShow}% w-full md:w-[330px] lg:w-[350px] rounded-md border bg-white flex flex-col justify-between items-stretch gap-4 p-8`}
+            className={`w-${
+              100 / slidesToShow
+            }% w-full md:w-[330px] lg:w-[350px] rounded-md border bg-white flex flex-col justify-between items-stretch gap-4 p-8`}
           >
-            <Typography className="text-start !text-n-3/80">{slide.text}</Typography>
+            <Typography className="text-start !text-n-3/80">
+              {slide.text}
+            </Typography>
             <div>
-              <Typography className="text-start font-medium !text-n-3">{slide.name}</Typography>
+              <Typography className="text-start font-medium !text-n-3">
+                {slide.name}
+              </Typography>
             </div>
           </div>
         ))}
