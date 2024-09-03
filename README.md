@@ -17,12 +17,5 @@ Arbitra is a modern web application designed to streamline and automate arbitrat
 - **Animations**: Enhanced user experience using React Just Parallax.
 - **Data Storage**: Local data storage without external database.
 
-## Installation
-
-To get started with Arbitra locally, follow these steps:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/developerammaryasser/arbitra.git
-   cd arbitra
+**Live View:**
+- [Visit the arbitra Website]([https://ammarblogger.vercel.app/](https://ammararbitra.netlify.app/))
