@@ -18,4 +18,4 @@ Arbitra is a modern web application designed to streamline and automate arbitrat
 - **Data Storage**: Local data storage without external database.
 
 **Live View:**
-- [Visit the arbitra Website]([https://ammarblogger.vercel.app/](https://ammararbitra.netlify.app/))
+- [Visit the arbitra Website](https://ammararbitra.netlify.app/)
